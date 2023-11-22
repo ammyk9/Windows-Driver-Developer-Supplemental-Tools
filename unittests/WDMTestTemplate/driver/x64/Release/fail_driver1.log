@@ -1,0 +1,7 @@
+﻿  Building 'fail_driver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  fail_driver1.cpp
+C:\codeql-home\Windows-Driver-Developer-Supplemental-Tools\src\drivers\test\WDMTestTemplate\driver\fail_driver1.h(31,5): error C2065: 'PFN_WDF_WORKITEM': undeclared identifier
+C:\codeql-home\Windows-Driver-Developer-Supplemental-Tools\src\drivers\test\WDMTestTemplate\driver\fail_driver1.h(31,22): error C2146: syntax error: missing ')' before identifier 'WorkItem'
+C:\codeql-home\Windows-Driver-Developer-Supplemental-Tools\src\drivers\test\WDMTestTemplate\driver\fail_driver1.h(34,25): error C2143: syntax error: missing ';' before '*'
+C:\codeql-home\Windows-Driver-Developer-Supplemental-Tools\src\drivers\test\WDMTestTemplate\driver\fail_driver1.h(40,10): error C2061: syntax error: identifier 'PFN_WDF_WORKITEM'
+C:\codeql-home\Windows-Driver-Developer-Supplemental-Tools\src\drivers\test\WDMTestTemplate\driver\fail_driver1.h(54,1): fatal  error C1070: mismatched #if/#endif pair in file 'C:\codeql-home\Windows-Driver-Developer-Supplemental-Tools\src\drivers\test\WDMTestTemplate\driver\fail_driver1.h'

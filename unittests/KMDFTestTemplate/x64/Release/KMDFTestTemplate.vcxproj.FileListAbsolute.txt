@@ -1,0 +1,1 @@
+C:\codeql-home\Windows-Driver-Developer-Supplemental-Tools\src\drivers\test\KMDFTestTemplate\x64\Release\KMDFTestTemplate.sys

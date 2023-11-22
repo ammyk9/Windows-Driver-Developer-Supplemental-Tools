@@ -1,0 +1,23 @@
+﻿  Building 'KMDFTestTemplate' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\KMDFTestTemplate.inf
+  Stamping [Version] section with DriverVer=11/21/2023,10.55.23.507
+  Driver.cpp
+  KMDFTestTemplate.vcxproj -> C:\codeql-home\Windows-Driver-Developer-Supplemental-Tools\src\drivers\test\KMDFTestTemplate\x64\Release\KMDFTestTemplate.sys
+  Done Adding Additional Store
+  Successfully signed: C:\codeql-home\Windows-Driver-Developer-Supplemental-Tools\src\drivers\test\KMDFTestTemplate\x64\Release\KMDFTestTemplate.sys
+  
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\codeql-home\Windows-Driver-Developer-Supplemental-Tools\src\drivers\test\KMDFTestTemplate\x64\Release\KMDFTestTemplate\kmdftesttemplate.cat
+  Done Adding Additional Store
+  Successfully signed: C:\codeql-home\Windows-Driver-Developer-Supplemental-Tools\src\drivers\test\KMDFTestTemplate\x64\Release\KMDFTestTemplate\kmdftesttemplate.cat
+  
