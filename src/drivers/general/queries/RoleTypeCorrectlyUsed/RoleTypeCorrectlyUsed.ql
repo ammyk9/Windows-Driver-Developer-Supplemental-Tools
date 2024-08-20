@@ -10,7 +10,7 @@
  * @impact Insecure Coding Practice
  * @repro.text
  * @owner.email: sdat@microsoft.com
- * @opaqueid CQLD-D0007
+ * @opaqueid CQLD-C28158
  * @problem.severity warning
  * @precision medium
  * @tags correctness
